@@ -1,0 +1,9 @@
+--- historical_data.csv ---
+rows: 211,224  columns: 16
+duplicate rows: 0
+missing values: none
+
+--- fear_greed.csv ---
+rows: 2,644  columns: 4
+duplicate rows: 0
+missing values: none
